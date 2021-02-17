@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": false,
+    "prettier.disableLanguages": [
+        
+    ],
+    "prettier.enable": false,
+    "prettier.jsxBracketSameLine": true,
+    "prettier.printWidth": 800
+}
